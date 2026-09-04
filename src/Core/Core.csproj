@@ -1,0 +1,6 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <RootNamespace>Aurora.Core</RootNamespace>
+    <AssemblyName>Aurora.Core</AssemblyName>
+  </PropertyGroup>
+</Project>
